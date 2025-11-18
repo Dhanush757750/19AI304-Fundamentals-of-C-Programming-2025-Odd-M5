@@ -306,6 +306,7 @@ int main()
 }
 ```
 # Output:
+<img width="802" height="440" alt="M5ex4" src="https://github.com/user-attachments/assets/1b759277-d437-41fc-a560-7b51b9a8efce" />
 
 
 # Result: 
